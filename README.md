@@ -23,6 +23,7 @@ Example plot results:
 - **Educational Use Only**: This software is strictly provided for educational and personal research purposes.
 
 ## Installation
+https://pypi.org/project/spotter-oscillation/
 
 You can install the library using the provided `setup.py` file. Make sure to have Python 3.7 or later.
 
